@@ -1,0 +1,21 @@
+export const INCREMENT = 'INCREMENT'
+export const DECREMENT = 'DECREMENT'
+//
+export const RESET_STATE = 'RESET_STATE'
+
+//AUTH
+export const CHANGE_COUNTRY = 'CHANGE_COUNTRY'
+export const CHANGE_NUM = 'CHANGE_NUM'
+export const CHANGE_COUNTRYCODE = 'CHANGE_COUNTRYCODE'
+export const CHANGE_CODE = 'CHANGE_CODE'
+export const SIGNIN_SUCCESS = 'SIGNIN_SUCCESS'
+export const SIGNIN_ERROR = 'SIGNIN_ERROR'
+export const LOGOUT = 'LOGOUT'
+export const CODE_SENT = 'CODE_SENT'
+export const CODE_SENT_ERROR = 'CODE_SENT_ERROR'
+export const RECAPCHA_REQUEST = 'RECAPCHA_REQUEST'
+export const RECAPCHA_ERROR = 'RECAPCHA_ERROR'
+export const CLEAR_AUTH = 'CLEAR_AUTH'
+export const STATUS_MSG = 'STATUS_MSG'
+
+

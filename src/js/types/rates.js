@@ -1,0 +1,2 @@
+export const EXPAND_VIEW = 'EXPAND_VIEW'
+export const COLLAPSE_VIEW = 'COLLAPSE_VIEW'
