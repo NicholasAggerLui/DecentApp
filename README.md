@@ -1,3 +1,7 @@
 # DecentApp
 
-It is my project. Exchange currency platform. Display currency data from fixer.io
+It is my unfinish project. 
+Exchange currency platform. Display currency data from fixer.io
+This project use React Hooks, Redux and React-Query
+
+
